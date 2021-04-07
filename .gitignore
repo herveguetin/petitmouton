@@ -89,7 +89,6 @@ projectFilesBackup
 .tern-project
 
 # Ghost DB file
-*.db
 *.db-journal
 
 .build
@@ -101,7 +100,6 @@ projectFilesBackup
 /content/logs/*
 /content/settings/*
 /content/apps/**/*
-/content/themes/**/*
 /content/images/**/*
 /content/adapters/storage/**/*
 /content/adapters/scheduling/**/*
@@ -124,3 +122,5 @@ test/coverage
 /core/server/web/admin/views/*.html
 !/core/server/web/admin/views/preview.html
 /core/server/public/ghost.min.css
+
+!/content/themes/Ease-master
