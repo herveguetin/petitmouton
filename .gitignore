@@ -98,7 +98,6 @@ projectFilesBackup
 
 /core/server/data/export/exported*
 /content/tmp/*
-/content/data/*
 /content/logs/*
 /content/settings/*
 /content/apps/**/*
