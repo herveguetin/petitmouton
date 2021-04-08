@@ -1,0 +1,20 @@
+{
+  "name": "petitmouton",
+  "version": "0.1.0",
+  "description": "",
+  "main": "./current/index.js",
+  "scripts": {
+    "heroku-prebuild": "cd current && npm install",
+    "start": "cd current && npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/herveguetin/petitmouton.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/herveguetin/petitmouton/issues"
+  },
+  "homepage": "https://github.com/herveguetin/petitmouton#readme"
+}
