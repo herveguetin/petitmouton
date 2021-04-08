@@ -4,7 +4,7 @@
   "description": "",
   "main": "./current/index.js",
   "scripts": {
-    "heroku-prebuild": "cd current && npm install",
+    "heroku-prebuild": "cd ./current && npm install",
     "start": "cd current && npm run start"
   },
   "repository": {

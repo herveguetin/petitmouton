@@ -116,6 +116,7 @@ test/coverage
 
 # ignore all custom json files for config
 /config.*.json
+!/config.production.json
 
 # Built asset files
 /core/built

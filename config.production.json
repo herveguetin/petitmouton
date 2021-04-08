@@ -1,0 +1,26 @@
+{
+  "url": "https://petitmouton.herokuapp.com/",
+  "server": {
+    "port": "FROM_PROCFILE",
+    "host": "0.0.0.0"
+  },
+  "database": {
+    "client": "sqlite3",
+    "connection": {
+    "filename": "../../content/data/ghost-local.db"
+    }
+  },
+  "mail": {
+    "transport": "Direct"
+  },
+  "logging": {
+    "transports": [
+      "file",
+      "stdout"
+    ]
+  },
+  "process": "local",
+  "paths": {
+    "contentPath": "../../content"
+  }
+}

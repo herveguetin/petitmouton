@@ -137,11 +137,11 @@
     "tough-cookie": "4.0.0",
     "uuid": "8.3.2",
     "validator": "6.3.0",
-    "xml": "1.0.1"
+    "xml": "1.0.1",
+    "sqlite3": "4.2.0"
   },
   "optionalDependencies": {
-    "@tryghost/html-to-mobiledoc": "0.7.12",
-    "sqlite3": "4.2.0"
+    "@tryghost/html-to-mobiledoc": "0.7.12"
   },
   "devDependencies": {
     "@lodder/grunt-postcss": "3.0.0",
