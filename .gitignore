@@ -98,9 +98,7 @@ projectFilesBackup
 /core/server/data/export/exported*
 /content/tmp/*
 /content/logs/*
-/content/settings/*
 /content/apps/**/*
-/content/images/**/*
 /content/adapters/storage/**/*
 /content/adapters/scheduling/**/*
 !/content/themes/casper
