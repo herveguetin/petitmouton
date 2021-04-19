@@ -1,5 +1,5 @@
 {
-  "url": "https://petitmouton.herokuapp.com/",
+  "url": "https://www.petitmouton.me/",
   "server": {
     "port": "FROM_PROCFILE",
     "host": "0.0.0.0"
