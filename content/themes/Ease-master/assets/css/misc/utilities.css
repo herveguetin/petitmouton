@@ -24,7 +24,7 @@
 .u-placeholder {
     position: relative;
     z-index: 10;
-    background-color: var(--light-gray-color);
+    background-color: var(--ghost-accent-color);
 }
 
 .u-placeholder.same-height {
@@ -32,7 +32,7 @@
 }
 
 .u-placeholder.horizontal {
-    padding-bottom: 50%;
+    padding-bottom: 40%;
 }
 
 .u-placeholder.rectangle {

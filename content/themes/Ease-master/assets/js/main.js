@@ -153,13 +153,13 @@ function featured() {
         ],
         responsive: {
             0: {
-                items: 3,
+                items: 2,
             },
             768: {
-                items: 3,
+                items: 4,
             },
             992: {
-                items: 3,
+                items: 4,
             },
         },
     });

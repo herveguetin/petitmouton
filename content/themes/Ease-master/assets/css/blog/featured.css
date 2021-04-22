@@ -14,12 +14,25 @@
     margin: 30px 0 90px;
 }
 
-.featured-wrapper .post-media {
-    margin-bottom: 30px;
+.featured-wrapper .featured-container {
+    min-height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
 }
 
-.featured-wrapper .post-header {
-    margin-bottom: 30px;
+.featured-wrapper .post {
+    background-color: var(--ghost-accent-color);
+    display: flex;
+    flex-basis: calc(34% - 30px);
+    justify-content: center;
+    flex-direction: column;
+    margin: 10px;
+}
+
+.featured-wrapper .post-title-link {
+    color: var(--white-color);
+    text-align: center;
 }
 
 .featured-wrapper .post-tag {
